@@ -9,7 +9,6 @@ public class Solver {
         boolean repeatedNum = false;
         // if odd 3n-1
         // if even n/2
-        // n = starting number
         while (!repeatedNum) {
             n += 1;
             nums.removeAll(nums);
